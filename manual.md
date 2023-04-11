@@ -18,3 +18,5 @@
 ## Работа с ветками
 * git branch - список веток
 * git branch "name" - создаем ветку с именем name или любым другим
+* git merge - слияние веток.
+* git log --graph - вывести commit.
